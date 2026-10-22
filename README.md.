@@ -1,0 +1,17 @@
+# E-Commerce Sales Operations Analysis
+
+## Technologies Used
+SQL Server (SSMS), Excel Power Query, Python (pandas), DAX, and Power BI.
+
+## Project Overview
+- Cleaned and standardized data from multiple sources using SQL Server, Power Query, and pandas.
+- Integrated seven tables into a unified star-schema data model.
+- Designed interactive Power BI dashboards to analyze sales performance, customer behavior, product returns, and delivery operations.
+- Improved data quality and data integration for consistent reporting.
+
+## Project Structure
+- `cleaned/` — Cleaned datasets
+- `excel/` — Excel and Power Query files
+- `powerbi/` — Power BI documentation and dashboard files
+- `python/` — Python data cleaning scripts
+- `sql/` — SQL queries and scripts
